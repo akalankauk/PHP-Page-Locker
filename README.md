@@ -5,7 +5,8 @@ Protect Your PHP Page Using Simple Code.! Everything is inside a single file.
 
 - No installation & No Database
 - Very easy to use !only need 1 line of code.
-- MD5 encryption enebled .
+- MD5 encryption enabled .
+- Cookies session enabled .
 
 #### Setup Guide
 

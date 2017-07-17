@@ -18,7 +18,9 @@ the password "aepass" to pass to the content of the page. (refer example.php fil
 #### MD5 Encrypted password
 
 -This code will lock the page with the password aepass, as the 39ef3d72a97f8aaf661e0c81b2233637 is the md5 encryption for aepass
-```<?php
+
+```
+<?php
     include'aedev.php';
     $options = array(
         "md5" => true

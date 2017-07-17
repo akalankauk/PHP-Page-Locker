@@ -26,4 +26,5 @@ the password "aepass" to pass to the content of the page. (refer example.php fil
         "md5" => true
     );
     lock("39ef3d72a97f8aaf661e0c81b2233637", 1, $options);
-?> ```
+?> 
+```

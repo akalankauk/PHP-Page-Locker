@@ -3,13 +3,13 @@ Protect Your PHP Page Using Simple Code.! Everything is inside a single file.
 ----------------
 ### Features
 
--No installation & No Database
--Very easy to use !only need 1 line of code.
--MD5 encryption enebled .
+- No installation & No Database
+- Very easy to use !only need 1 line of code.
+- MD5 encryption enebled .
 
 #### Setup Guide
 
--The only thing you have to do is to copy the aedev.php in the folder with your website's php files.
+- The only thing you have to do is to copy the aedev.php in the folder with your website's php files.
 ```<?php include'aedev.php'; lock("aepass", 1); ?>```
 
 Adding this line of code at the beginning of any PHP page, will lock it. The visitor will need to type
